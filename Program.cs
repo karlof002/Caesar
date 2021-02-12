@@ -1,7 +1,3 @@
-﻿/*
- * Programm: Caesar
- * Autor: Michael Bucek
- */
 
 using System;
 
